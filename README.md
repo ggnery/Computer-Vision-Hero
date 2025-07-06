@@ -86,18 +86,18 @@ Algumas referências essenciais para sua jornada:
 
 ### Cursos e Playlists
 
-1. **CS 198-126: Deep Learning for Visual Data (Berkeley)**
+1. **CS 198-126: Deep Learning for Visual Data (Berkeley)** <br>
 Notion: https://ml-berkeley.notion.site/CS-198-126-Deep-Learning-for-Visual-Data-a57e2aca54c046edb7014439f81ba1d5
 
-2. **Computer Vision Course (University of Tübingen)**
+2. **Computer Vision Course (University of Tübingen)** <br>
 Roadmap: https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/
 
-3. **Deep Learning for Computer Vision (FreeCodeCamp)**
-Playlist: https://www.youtube.com/watch?v=IA3WxTTPXqQ&ab_channel=freeCodeCamp.org
+3. **Deep Learning for Computer Vision (FreeCodeCamp)** <br>
+Playlist: https://www.youtube.com/watch?v=IA3WxTTPXqQ&ab_channel=freeCodeCamp.org <br>
 Colab: https://colab.research.google.com/drive/18u1KDx-9683iZNPxSDZ6dOv9319ZuEC_
 
-4. **Computer Vision Course (NPTEL - Indian Institute)**
-Playlist: https://www.youtube.com/playlist?list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG
+4. **Computer Vision Course (NPTEL - Indian Institute)** <br>
+Playlist: https://www.youtube.com/playlist?list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG <br>
 Curso: https://archive.nptel.ac.in/courses/106/106/106106224/
 
 ---
