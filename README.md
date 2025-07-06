@@ -80,6 +80,9 @@ Algumas referências essenciais para sua jornada:
 1. **First Principles of Computer Vision**  
    YouTube: [https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw?app=desktop](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw?app=desktop)  
    Um canal do YouTube focado em desmistificar os princípios fundamentais da Visão Computacional. Ideal para iniciantes e entusiastas do tema.
+2. 3blue1brown
+   Youtybe: [https://www.youtube.com/@3blue1brown](https://www.youtube.com/@3blue1brown)
+   Um canal focado em trazer fundamentos matemáticos da área de deep learning com animações simples e elegantes
 
 ### Cursos e Playlists
 
