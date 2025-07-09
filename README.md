@@ -13,9 +13,9 @@ A ideia principal do repositório é oferecer um compilado de notebooks e outros
 O repositório será organizado em várias seções correspondentes ao cronograma semanal pré definido, cada uma dedicada a um aspecto introdutório específico em visão computacional:
 
 ### Semana 1: Boas-vindas / Introdução à Visão Computacional e Estrutura de Imagens
-- 📑 **Slides**: https://www.canva.com/design/DAGsVLm-vRg/CHeshSouxBCbEFgQc5RSEw/edit?utm_content=DAGsVLm-vRg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- 📑 **Slides**: [Acesse os slides da semana 1](https://www.canva.com/design/DAGsVLm-vRg/CHeshSouxBCbEFgQc5RSEw/edit?utm_content=DAGsVLm-vRg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 📓 **Notebook**: Não possui
-- 📽️ **Vídeo**: https://drive.google.com/file/d/1LbNwfZL0ceo6A_HhSQ9VQbpT1yViI0p2/view?usp=drive_link
+- 📽️ **Vídeo**: [Acesse os videos da semana 1](https://drive.google.com/file/d/1LbNwfZL0ceo6A_HhSQ9VQbpT1yViI0p2/view?usp=drive_link)
 
 ### Semana 2: Estrutura das Imagens Digitais e Espaços de Cores
 - 📑 **Slides**:
