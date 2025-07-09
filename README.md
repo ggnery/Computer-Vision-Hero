@@ -37,7 +37,7 @@ Convidamos todos os estudantes e entusiastas de visão computacional a contribui
 - Documentação e tutoriais adicionais
 - Melhoria dos materiais existentes
 
-Para contribuir, siga as instruções na seção [CONTRIBUTING.md]().
+Para contribuir, siga as instruções na seção [CONTRIBUTING.md](https://github.com/ggnery/Computer-Vision-Hero/blob/main/CONTRIBUTING.md).
 
 ## Como Começar
 
