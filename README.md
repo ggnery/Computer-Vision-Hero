@@ -25,7 +25,7 @@ O repositório será organizado em várias seções correspondentes ao cronogram
 ### Semana 3: Filtros de imagem
 - 📑 **Slides**: [Acesse os slides da semana 3](https://drive.google.com/file/d/11sDRlCM-9TBr0lkUiLnEqlcSyjrYhLl1/view?usp=drive_link)
 - 📓 **Notebook**: [Acesse o notebook da semana 3](https://colab.research.google.com/drive/1pacO0yl_Bu2X0RyWlfJP6OiKqox7nCfi?usp)
-- 📽️ **Vídeo**: [Acesse o notebook da semana 3]()  
+- 📽️ **Vídeo**: [Acesse o notebook da semana 3](https://drive.google.com/drive/folders/1ZdlFMVUtirJaOuujhmKHZUzbd4Fiyvy9?usp=drive_link)  
 ---
 
 ## Contribuições:
