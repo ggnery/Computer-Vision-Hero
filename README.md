@@ -13,19 +13,29 @@ A ideia principal do repositório é oferecer um compilado de notebooks e outros
 O repositório será organizado em várias seções correspondentes ao cronograma semanal pré definido, cada uma dedicada a um aspecto introdutório específico em visão computacional:
 
 ### Semana 1: Boas-vindas / Introdução à Visão Computacional
-- 📑 **Slides**: [Acesse os slides da semana 1](https://drive.google.com/file/d/1vlmG8IkCCnfQKjKyoA-8EjgJljrMrB8_/view?usp=drive_link)
+- 📑 **Slides**: [Acesse os slides da semana 1](https://drive.google.com/file/d/1hcQJoNCKRFZZYpB9t6D04I4Yry7kPqsw/view?usp=drive_link)
 - 📓 **Notebook**: Não possui
-- 📽️ **Vídeo**: [Acesse os videos da semana 1](https://drive.google.com/file/d/1LbNwfZL0ceo6A_HhSQ9VQbpT1yViI0p2/view?usp=drive_link)
+- 📽️ **Vídeo**: [Acesse os videos da semana 1](https://drive.google.com/file/d/1GNzbFWwbuP6L81IWlKsSyUKShC0Wi-Ju/view?usp=drive_link)
 
 ### Semana 2: Estrutura das Imagens Digitais e Espaços de Cores
-- 📑 **Slides**: [Acesse os slides da semana 2](https://drive.google.com/file/d/1vouwKIj0ZyMQdMHKXl6ZERRV7YGSwA3B/view?usp=drive_link)
+- 📑 **Slides**: [Acesse os slides da semana 2](https://drive.google.com/file/d/1ewiu79jIYs1OwjaPLhW5KnSJpUTOqlMi/view?usp=drive_link)
 - 📓 **Notebook**: [Acesse o notebook da semana 2](https://colab.research.google.com/drive/1CTu3GorfHLgV5t_neKlXfgymVJPb4VEg?usp=sharing)
-- 📽️ **Vídeo**: [Acesse o notebook da semana 2](https://drive.google.com/file/d/1rFMUq0VzuJySssk0vL5ZsSvfLaHDDEww/view?usp=sharing)
+- 📽️ **Vídeo**: [Acesse o notebook da semana 2](https://drive.google.com/file/d/1ZydvBL2jXvqyLYb_bLs-S2hzFyqkdHzM/view?usp=drive_link)
 
 ### Semana 3: Filtros de imagem
-- 📑 **Slides**: [Acesse os slides da semana 3](https://drive.google.com/file/d/11sDRlCM-9TBr0lkUiLnEqlcSyjrYhLl1/view?usp=drive_link)
+- 📑 **Slides**: [Acesse os slides da semana 3](https://drive.google.com/file/d/1BrtlBliDNw_on_0y_26tPosw4rYBFJuu/view?usp=drive_link)
 - 📓 **Notebook**: [Acesse o notebook da semana 3](https://colab.research.google.com/drive/1pacO0yl_Bu2X0RyWlfJP6OiKqox7nCfi?usp)
-- 📽️ **Vídeo**: [Acesse o notebook da semana 3](https://drive.google.com/drive/folders/1ZdlFMVUtirJaOuujhmKHZUzbd4Fiyvy9?usp=drive_link)  
+- 📽️ **Vídeo**: [Acesse o notebook da semana 3](https://drive.google.com/file/d/1qXV2vNbvQVxknJcf5jpsuvd2I26fXD-i/view?usp=drive_link)  
+
+### Semana 4: Métodos de Extração de Características
+- 📑 **Slides**: [Acesse os slides da semana 3](https://drive.google.com/file/d/1-gR0DCmEFFO3XbQLRUL8BpiMdFitHIzf/view?usp=drive_link)
+- 📓 **Notebook**: [Acesse o notebook da semana 3](https://colab.research.google.com/drive/1IZITl5HlLWmzjkZzdm31MSXgjaCukd9H?usp=sharing)
+- 📽️ **Vídeo**: [Acesse o notebook da semana 3](https://drive.google.com/file/d/1SW2Yaa6UKz8Gi_BBERHdXMBi2rMJW1kg/view?usp=drive_link)
+
+- ### Semana 5: SIFT (Extração de Características)
+- 📑 **Slides**: [Acesse os slides da semana 3]()
+- 📓 **Notebook**: [Acesse o notebook da semana 3](https://colab.research.google.com/drive/135YwPwdPFsJBue32fu-h_IK_gnnPS8zZ?usp=sharing)
+- 📽️ **Vídeo**: [Acesse o notebook da semana 3]()  
 ---
 
 ## Contribuições:
