@@ -33,9 +33,9 @@ O repositório será organizado em várias seções correspondentes ao cronogram
 - 📽️ **Vídeo**: [Acesse o notebook da semana 3](https://drive.google.com/file/d/1SW2Yaa6UKz8Gi_BBERHdXMBi2rMJW1kg/view?usp=drive_link)
 
 - ### Semana 5: SIFT (Extração de Características)
-- 📑 **Slides**: [Acesse os slides da semana 3]()
+- 📑 **Slides**: [Acesse os slides da semana 3](https://drive.google.com/file/d/19xGWWgwbTYSFizrSFInLHtr8TSYdC-0h/view?usp=sharing)
 - 📓 **Notebook**: [Acesse o notebook da semana 3](https://colab.research.google.com/drive/135YwPwdPFsJBue32fu-h_IK_gnnPS8zZ?usp=sharing)
-- 📽️ **Vídeo**: [Acesse o notebook da semana 3]()  
+- 📽️ **Vídeo**: Não possui
 ---
 
 ## Contribuições:
