@@ -20,7 +20,7 @@ O repositório será organizado em várias seções correspondentes ao cronogram
 ### Semana 2: Estrutura das Imagens Digitais e Espaços de Cores
 - 📑 **Slides**: [Acesse os slides da semana 2](https://drive.google.com/file/d/1ewiu79jIYs1OwjaPLhW5KnSJpUTOqlMi/view?usp=drive_link)
 - 📓 **Notebook**: [Acesse o notebook da semana 2](https://colab.research.google.com/drive/1CTu3GorfHLgV5t_neKlXfgymVJPb4VEg?usp=sharing)
-- 📽️ **Vídeo**: [Acesse o notebook da semana 2](https://drive.google.com/file/d/11okEGe4rT8xf1vwEinhEXzCmkApEpnZa/view?usp=drive_link)
+- 📽️ **Vídeo**: [Acesse o notebook da semana 2](https://drive.google.com/file/d/11okEGe4rT8xf1vwEinhEXzCmkApEpnZa/view?usp=sharing)
 
 ### Semana 3: Filtros de imagem
 - 📑 **Slides**: [Acesse os slides da semana 3](https://drive.google.com/file/d/1BrtlBliDNw_on_0y_26tPosw4rYBFJuu/view?usp=drive_link)
