@@ -32,12 +32,12 @@ O repositório será organizado em várias seções correspondentes ao cronogram
 - 📓 **Notebook**: [Acesse o notebook da semana 4](https://colab.research.google.com/drive/1IZITl5HlLWmzjkZzdm31MSXgjaCukd9H?usp=sharing)
 - 📽️ **Vídeo**: [Acesse o notebook da semana 4](https://drive.google.com/file/d/1SW2Yaa6UKz8Gi_BBERHdXMBi2rMJW1kg/view?usp=drive_link)
 
-- ### Semana 5: SIFT (Extração de Características)
+### Semana 5: SIFT (Extração de Características)
 - 📑 **Slides**: [Acesse os slides da semana 5](https://drive.google.com/file/d/19xGWWgwbTYSFizrSFInLHtr8TSYdC-0h/view?usp=sharing)
 - 📓 **Notebook**: [Acesse o notebook da semana 5](https://colab.research.google.com/drive/135YwPwdPFsJBue32fu-h_IK_gnnPS8zZ?usp=sharing)
 - 📽️ **Vídeo**: Não possui
 
-- ### Semana 6: Explorando CNNs e Modelos Clássicos de Visão 
+ ### Semana 6: Explorando CNNs e Modelos Clássicos de Visão 
 - 📑 **Slides**: [Acesse os slides da semana 6]()
 - 📓 **Notebook**: [Acesse o notebook da semana 6](https://colab.research.google.com/drive/1_I2dt9BAP5xVuMMQXrIomrddhyh5NGWD?usp=sharing)
 - 📽️ **Vídeo**: [Acesse o notebook da semana 4]()
