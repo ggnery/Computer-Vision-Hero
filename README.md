@@ -38,9 +38,9 @@ O repositório será organizado em várias seções correspondentes ao cronogram
 - 📽️ **Vídeo**: Não possui
 
  ### Semana 6: Explorando CNNs e Modelos Clássicos de Visão 
-- 📑 **Slides**: [Acesse os slides da semana 6]()
+- 📑 **Slides**: [Acesse os slides da semana 6](https://drive.google.com/file/d/1J4eJfwubyflzXmByLBpmdlxCXIUa7XnZ/view?usp=drive_link)
 - 📓 **Notebook**: [Acesse o notebook da semana 6](https://colab.research.google.com/drive/1_I2dt9BAP5xVuMMQXrIomrddhyh5NGWD?usp=sharing)
-- 📽️ **Vídeo**: [Acesse o notebook da semana 4]()
+- 📽️ **Vídeo**: [Acesse o notebook da semana 4](https://drive.google.com/drive/folders/1MZggNdruY4YgvuVW9S56ri-2MIYWt6C7?usp=sharing)
 ---
 
 ## Contribuições:
