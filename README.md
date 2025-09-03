@@ -42,15 +42,10 @@ O repositório será organizado em várias seções correspondentes ao cronogram
 - 📓 **Notebook**: [Acesse o notebook da semana 6](https://colab.research.google.com/drive/1_I2dt9BAP5xVuMMQXrIomrddhyh5NGWD?usp=sharing)
 - 📽️ **Vídeo**: [Acesse o notebook da semana 6](https://drive.google.com/drive/folders/1MZggNdruY4YgvuVW9S56ri-2MIYWt6C7?usp=sharing)
 
-### Semana 7: Calibração de Câmera e Estimação de Pose (ainda pra ser feito)
+### Semana 7: Transfer Learning e Fine Tuning 
 - 📑 **Slides**: [Acesse os slides da semana 7]()
 - 📓 **Notebook**: [Acesse o notebook da semana 7]()
-- 📽️ **Vídeo**: [Acesse o notebook da semana 7]()
-
-### Semana 8: Transfer Learning e Fine Tuning (ainda pra ser feito)
-- 📑 **Slides**: [Acesse os slides da semana 8]()
-- 📓 **Notebook**: [Acesse o notebook da semana 8]()
-- 📽️ **Vídeo**: [Acesse o notebook da semana 8]()
+- 📽️ **Vídeo**: [Acesse o notebook da semana 7](https://drive.google.com/drive/folders/1_BbBnWX9OmyZjqdhVTuORnF5F0lC8BZY?usp=sharing)
 ---
 
 ## Contribuições:
