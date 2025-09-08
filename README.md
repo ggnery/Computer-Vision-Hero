@@ -43,8 +43,8 @@ O repositório será organizado em várias seções correspondentes ao cronogram
 - 📽️ **Vídeo**: [Acesse o notebook da semana 6](https://drive.google.com/drive/folders/1MZggNdruY4YgvuVW9S56ri-2MIYWt6C7?usp=sharing)
 
 ### Semana 7: Transfer Learning e Fine Tuning 
-- 📑 **Slides**: [Acesse os slides da semana 7]()
-- 📓 **Notebook**: [Acesse o notebook da semana 7]()
+- 📑 **Slides**: [Acesse os slides da semana 7](https://drive.google.com/file/d/1dsTD7WDmCsVKUvhmUwvdD_xX7nliYgNt/view?usp=sharing)
+- 📓 **Notebook**: [Acesse o notebook da semana 7](https://github.com/likamee/luzIA-core)
 - 📽️ **Vídeo**: [Acesse o notebook da semana 7](https://drive.google.com/drive/folders/1_BbBnWX9OmyZjqdhVTuORnF5F0lC8BZY?usp=sharing)
 ---
 
