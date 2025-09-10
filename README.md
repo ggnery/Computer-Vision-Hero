@@ -48,6 +48,12 @@ O repositório será organizado em várias seções correspondentes ao cronogram
 - 📽️ **Vídeo**: [Acesse o notebook da semana 7](https://drive.google.com/drive/folders/1_BbBnWX9OmyZjqdhVTuORnF5F0lC8BZY?usp=sharing)
 ---
 
+### Semana 8: Introdução a rede YOLO
+- 📑 **Slides**: [Acesse os slides da semana 8]()
+- 📓 **Notebook**: [Acesse o notebook da semana 8](https://colab.research.google.com/drive/1l5FwF7F1d8R8fsW7rbnQOQi9laL_Qnav?usp=sharing)
+- 📽️ **Vídeo**: [Acesse o notebook da semana 8]()
+---
+
 ## Contribuições:
 
 Convidamos todos os estudantes e entusiastas de visão computacional a contribuir para o repositório. As contribuições podem incluir:
