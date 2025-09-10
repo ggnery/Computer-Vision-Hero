@@ -46,7 +46,6 @@ O repositório será organizado em várias seções correspondentes ao cronogram
 - 📑 **Slides**: [Acesse os slides da semana 7](https://drive.google.com/file/d/1dsTD7WDmCsVKUvhmUwvdD_xX7nliYgNt/view?usp=sharing)
 - 📓 **Notebook**: [Acesse o notebook da semana 7](https://github.com/likamee/luzIA-core)
 - 📽️ **Vídeo**: [Acesse o notebook da semana 7](https://drive.google.com/drive/folders/1_BbBnWX9OmyZjqdhVTuORnF5F0lC8BZY?usp=sharing)
----
 
 ### Semana 8: Introdução a rede YOLO
 - 📑 **Slides**: [Acesse os slides da semana 8]()
